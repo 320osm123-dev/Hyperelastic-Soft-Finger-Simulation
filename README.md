@@ -36,8 +36,8 @@ The pressure conditions were applied as time-dependent internal pressure values.
 ## Modeling Process
 
 <p align="center">
-  <img src="images/model.png" width="30%">
-  <img src="images/chamber.png" width="30%">
+  <img src="images/model.jpg" width="30%">
+  <img src="images/chamber.jpg" width="30%">
   <img src="images/mesh.png" width="30%">
 </p>
 
@@ -48,8 +48,8 @@ A **Hex Dominant mesh** was applied to generate a mesh that follows the bellows 
 ## Boundary Conditions
 
 <p align="center">
-  <img src="images/fixed_support.png" width="45%">
-  <img src="images/internal_pressure.png" width="45%">
+  <img src="images/fixed_support.jpg" width="45%">
+  <img src="images/internal_pressure.jpg" width="45%">
 </p>
 
 The base region was fixed to represent the condition where the finger is attached to a palm or frame.  
@@ -58,8 +58,8 @@ Pneumatic pressure was applied uniformly to the internal chamber wall faces.
 ## Result
 
 <p align="center">
-  <img src="images/result_pressure_increase.png" width="45%">
-  <img src="images/result_pressure_decrease.png" width="45%">
+  <img src="images/result_pressure_increase.jpg" width="45%">
+  <img src="images/result_pressure_decrease.jpg" width="45%">
 </p>
 
 The initial expectation was that negative and positive pressure would bend the finger in opposite directions.  
